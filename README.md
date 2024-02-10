@@ -1,2 +1,2 @@
 # RandomSentencesGeneratorByHristo
-Laugh generator :D 
+Random laugh generator :D 
